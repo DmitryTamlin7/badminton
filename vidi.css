@@ -1,0 +1,33 @@
+body{
+    background-color: #18016b;
+}
+.bg-odin {
+    background: #e2b66b;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+
+}
+
+.bg-dva {
+    background: #da7768;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+
+}
+
+.bg-tri {
+    background: rgb(211, 109, 220);
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+
+}
+
+.bg-semi {
+    background: rgb(97, 192, 194);
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}

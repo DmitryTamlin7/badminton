@@ -1,0 +1,45 @@
+body{
+    background-color: #18016b;
+}
+.bg-yellow {
+    background: #e2b66b;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+
+}
+
+.bg-za {
+    background: #4b783c;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.bg-vol {
+    background: #c1bc40;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+
+}
+
+.bg-odez {
+    background: #4aaec0;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+.bg-pov {
+    background: #c5427d;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.bg-zag {
+    background: #b84343;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}

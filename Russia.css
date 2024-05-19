@@ -1,0 +1,9 @@
+body{
+    background-color: #18016b;
+}
+.bg-yellow {
+    background: #c5984a;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}

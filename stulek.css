@@ -1,0 +1,63 @@
+body{
+    background-color: #18016b;
+}
+.bg-yellow {
+    background: #e2b66b;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+
+}
+
+.bg-green {
+    background: #da7768;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+
+}
+
+.bg-red {
+    background: rgb(211, 109, 220);
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+
+}
+
+.list{
+    background: #86cabc;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    
+}
+
+img { 
+    max-width: 100%; 
+    height: auto; 
+}
+
+a:link { 
+    color: #ffffff; 
+    text-decoration: none; 
+} 
+a:visited { 
+    color: rgb(238, 255, 51); 
+} 
+
+.info__fullname {
+    color: #ffffff;
+}
+.info__title {
+    color :#ffffff;
+
+}
+
+.boba {
+    color: #ffffff;
+}
+
+.contact {
+    color:  #FFFFFF;
+}
